@@ -1,0 +1,28 @@
+header {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 33vw;
+    color: rgb(239, 235, 228);
+    margin-top: 20px;
+
+}
+
+body {
+    background-color: rgba(47, 45, 46, 255);
+    color: rgb(239, 235, 228);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    margin-top: -50px;
+    margin-left: -20px;
+}
+
+.timer{
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 20px;
+}
